@@ -1,0 +1,30 @@
+{
+  "orders": [
+    {
+      "Id": 1,
+      "items": [
+        {
+          "productId": 1,
+          "name": "Wireless Bluetooth Headphones",
+          "price": 129.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=100&h=100&fit=crop"
+        }
+      ],
+      "subtotal": 129.99,
+      "shipping": 9.99,
+      "tax": 11.70,
+      "total": 151.68,
+      "status": "confirmed",
+      "createdAt": "2024-01-15T10:30:00Z",
+      "shippingAddress": {
+        "name": "John Doe",
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "United States"
+      }
+    }
+  ]
+}

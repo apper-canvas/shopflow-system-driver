@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "Id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 129.99,
+      "originalPrice": 159.99,
+      "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear audio quality. Perfect for music lovers and professionals.",
+      "category": "Electronics",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.8,
+      "reviews": 256,
+      "featured": true,
+      "tags": ["wireless", "bluetooth", "noise-cancelling", "premium"]
+    },
+    {
+      "Id": 2,
+      "name": "Smart Fitness Watch",
+      "price": 249.99,
+      "originalPrice": 299.99,
+      "description": "Advanced fitness tracker with heart rate monitoring, GPS, sleep tracking, and 7-day battery life. Track your health goals with precision.",
+      "category": "Electronics",
+      "images": [
+        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1579586337278-3f436cfbf946?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.6,
+      "reviews": 189,
+      "featured": true,
+      "tags": ["fitness", "smartwatch", "health", "gps"]
+    },
+    {
+      "Id": 3,
+      "name": "Organic Cotton T-Shirt",
+      "price": 29.99,
+      "originalPrice": 39.99,
+      "description": "Soft, breathable organic cotton t-shirt made from sustainable materials. Available in multiple colors and sizes. Perfect for everyday wear.",
+      "category": "Fashion",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1583743814966-8936f37f86c6?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.4,
+      "reviews": 94,
+      "featured": false,
+      "tags": ["organic", "cotton", "sustainable", "comfortable"]
+    },
+    {
+      "Id": 4,
+      "name": "Premium Coffee Beans",
+      "price": 24.99,
+      "originalPrice": 29.99,
+      "description": "Single-origin Arabica coffee beans, medium roast with notes of chocolate and caramel. Ethically sourced and freshly roasted to perfection.",
+      "category": "Food & Beverages",
+      "images": [
+        "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.9,
+      "reviews": 342,
+      "featured": true,
+      "tags": ["coffee", "arabica", "single-origin", "premium"]
+    },
+    {
+      "Id": 5,
+      "name": "Yoga Mat Pro",
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "description": "Non-slip yoga mat with superior grip and cushioning. Made from eco-friendly materials with alignment guides. Perfect for all yoga styles.",
+      "category": "Sports & Outdoors",
+      "images": [
+        "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1506629905542-b5f61a9a75c6?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.7,
+      "reviews": 128,
+      "featured": true,
+      "tags": ["yoga", "fitness", "non-slip", "eco-friendly"]
+    },
+    {
+      "Id": 6,
+      "name": "Ceramic Plant Pot",
+      "price": 34.99,
+      "originalPrice": 44.99,
+      "description": "Handcrafted ceramic plant pot with drainage holes and saucer. Modern minimalist design perfect for indoor plants and home decor.",
+      "category": "Home & Garden",
+      "images": [
+        "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.3,
+      "reviews": 67,
+      "featured": false,
+      "tags": ["ceramic", "plant-pot", "home-decor", "handcrafted"]
+    },
+    {
+      "Id": 7,
+      "name": "Leather Crossbody Bag",
+      "price": 89.99,
+      "originalPrice": 119.99,
+      "description": "Genuine leather crossbody bag with multiple compartments and adjustable strap. Perfect for daily use with a timeless design.",
+      "category": "Fashion",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.5,
+      "reviews": 203,
+      "featured": true,
+      "tags": ["leather", "crossbody", "handbag", "genuine"]
+    },
+    {
+      "Id": 8,
+      "name": "Portable Bluetooth Speaker",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "description": "Waterproof portable speaker with 360-degree sound, 12-hour battery life, and deep bass. Perfect for outdoor adventures and parties.",
+      "category": "Electronics",
+      "images": [
+        "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.6,
+      "reviews": 145,
+      "featured": false,
+      "tags": ["bluetooth", "portable", "waterproof", "speaker"]
+    },
+    {
+      "Id": 9,
+      "name": "Artisan Skincare Set",
+      "price": 69.99,
+      "originalPrice": 89.99,
+      "description": "Complete skincare set with cleanser, toner, moisturizer, and serum. Made with natural ingredients for all skin types.",
+      "category": "Beauty & Personal Care",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.8,
+      "reviews": 287,
+      "featured": true,
+      "tags": ["skincare", "natural", "artisan", "beauty"]
+    },
+    {
+      "Id": 10,
+      "name": "Stainless Steel Water Bottle",
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours or hot for 12 hours. BPA-free with leak-proof design.",
+      "category": "Sports & Outdoors",
+      "images": [
+        "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1594971774270-54a1bb6d3dc8?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.7,
+      "reviews": 156,
+      "featured": false,
+      "tags": ["stainless-steel", "insulated", "bpa-free", "leak-proof"]
+    },
+    {
+      "Id": 11,
+      "name": "Vintage Desk Lamp",
+      "price": 124.99,
+      "originalPrice": 149.99,
+      "description": "Industrial-style vintage desk lamp with adjustable arm and Edison bulb. Perfect for offices, studies, and reading nooks.",
+      "category": "Home & Garden",
+      "images": [
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.4,
+      "reviews": 89,
+      "featured": true,
+      "tags": ["vintage", "desk-lamp", "industrial", "edison-bulb"]
+    },
+    {
+      "Id": 12,
+      "name": "Gourmet Chocolate Collection",
+      "price": 49.99,
+      "originalPrice": 64.99,
+      "description": "Luxury chocolate collection featuring dark, milk, and white chocolates with unique flavor profiles. Perfect for gifting or personal indulgence.",
+      "category": "Food & Beverages",
+      "images": [
+        "https://images.unsplash.com/photo-1549007953-2f2dc0b24019?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1511381939415-e44015466834?w=500&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500&h=500&fit=crop"
+      ],
+      "inStock": true,
+      "rating": 4.9,
+      "reviews": 423,
+      "featured": true,
+      "tags": ["gourmet", "chocolate", "luxury", "gift"]
+    }
+  ]
+}

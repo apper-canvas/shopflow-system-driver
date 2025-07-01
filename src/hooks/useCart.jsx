@@ -5,7 +5,7 @@ const CartContext = createContext()
 
 const cartReducer = (state, action) => {
   switch (action.type) {
-    case 'ADD_ITEM':
+case 'ADD_ITEM': {
       const existingItem = state.items.find(item => item.productId === action.payload.productId)
       if (existingItem) {
         return {
@@ -22,7 +22,7 @@ const cartReducer = (state, action) => {
           items: [...state.items, action.payload]
         }
       }
-    
+    }
     case 'REMOVE_ITEM':
       return {
         ...state,
